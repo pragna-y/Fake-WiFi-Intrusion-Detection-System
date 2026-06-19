@@ -2,7 +2,7 @@ from data import networks
 
 seen = {}
 
-print("🔍 Fake WiFi Detection System\n")
+print("Fake WiFi Detection System\n")
 
 # ---------- USER INPUT OPTION ----------
 choice = input("Enter 1 for default scan or 2 to enter your own WiFi: ")
