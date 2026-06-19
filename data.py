@@ -5,7 +5,5 @@ networks = [
     {"ssid": "Free_WiFi", "mac": "DD:44", "security": "Open"},
     {"ssid": "Library_WiFi", "mac": "EE:55", "security": "WEP"},
     {"ssid": "Netravathi", "mac": "CC:F8:54:F6:ED:BC:AF", "security": "WPA3"},
-    {"ssid": "PY", "mac": "F8:54:F6:ED:BC:AF", "security": "WPA2"},
-    {"ssid": "galaxynote210", "mac": "9C:C7:D3:FF:13:76", "security": "WPA2"},
     {"ssid": "galaxynote20", "mac": "9C:C7:D3:FF:13:76", "security": "WPA2"}
 ]
